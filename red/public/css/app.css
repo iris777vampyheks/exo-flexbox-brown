@@ -1,0 +1,82 @@
+*{
+    margin: 3px;
+}
+.container{
+display: flex;
+}
+.lwl{
+  background-color: red; 
+  width: 700px;
+  height: 150px; 
+  text-align: center;
+}
+.tani{
+background-color: red;
+width: 700px;
+height: 150px;
+text-align: center;
+}
+.talta{
+    height: 300px;
+    background-color: red;
+    width: 50%;
+    text-align: center;
+}
+.divparent{
+    display: flex;
+}
+.red{
+background-color: red;
+width: 700px;
+height: 63px;
+}
+.red2{
+    background: red;
+    width: 700px;
+    height: 200px;
+}
+.divpar{
+    display:flex;
+}
+.divo{
+    display: flex;
+    flex-direction: row;
+}
+.re{
+background-color:red;
+height: 110px;
+width:130px;
+}
+.diva{
+    display:flex;
+}
+.redd{
+background-color:red;
+height: 110px;
+width: 400px;
+text-align: center;
+}
+.re{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
